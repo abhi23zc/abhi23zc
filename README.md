@@ -1,7 +1,8 @@
+![logo](https://firebasestorage.googleapis.com/v0/b/drop-63cab.appspot.com/o/1718907934651.jpg?alt=media&token=bca24706-4339-448c-9ca7-6db8c4084393)
 <h1 align="center">Hi 👋, I'm Abhishek Gautam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img src ="blob:https://www.pinterest.com/032b1d8a-3719-4461-8adf-82e33b225faa" align="right" alt="Coding" width="400"> 
+<img src ="https://firebasestorage.googleapis.com/v0/b/drop-63cab.appspot.com/o/files%2FHR%20manager%20animation.gif?alt=media&token=6aaf76fd-4596-4382-9ac9-296a493759bf" align="right" alt="Coding" width="400"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi23zc&label=Profile%20views&color=0e75b6&style=flat" alt="abhi23zc" /> </p>
 
