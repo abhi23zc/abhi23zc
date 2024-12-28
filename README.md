@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://zrf-me.vercel.app/](https://zrf-me.vercel.app/)
 
-- 📫 How to reach me **abhishekssingh0000@hotmail.com**
+- 📫 How to reach me **abhishek.singh.dev147@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TLz7BtiECcdyYh2uB9slwjpj1F5oLxV7/view?usp=sharing](https://drive.google.com/file/d/1TLz7BtiECcdyYh2uB9slwjpj1F5oLxV7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sYHI8dYZJFQOLwBrHiQdKPhwzM85OUc9/view?usp=sharing)
 
 - ⚡ Fun fact **I've probably built more projects than some people have tabs open in their browser! I am on a mission to keep the code editors working overtime.**
 
