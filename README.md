@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi23zc&label=Profile%20views&color=0e75b6&style=flat" alt="abhi23zc" /> </p>
 
-- 🌱 I’m currently learning **BlockChain and Machine Learning**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://zrf-me.vercel.app/](https://zrf-me.vercel.app/)
 
 - 📫 How to reach me **abhishek.singh.dev147@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sYHI8dYZJFQOLwBrHiQdKPhwzM85OUc9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ppy5GNxof-W9uDSjTKwa8OwfoKDeAKyU/view?usp=drive_link)
 
 - ⚡ Fun fact **I've probably built more projects than some people have tabs open in their browser! I am on a mission to keep the code editors working overtime.**
 
